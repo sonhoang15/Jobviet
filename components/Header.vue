@@ -15,10 +15,10 @@
           <NuxtLink to="/" class="text-gray-700 hover:text-primary-600 font-medium transition-colors">
             Việc làm
           </NuxtLink>
-          <NuxtLink to="/companies" class="text-gray-700 hover:text-primary-600 font-medium transition-colors">
+          <NuxtLink to="#" class="text-gray-700 hover:text-primary-600 font-medium transition-colors">
             Công ty
           </NuxtLink>
-          <NuxtLink to="/blog" class="text-gray-700 hover:text-primary-600 font-medium transition-colors">
+          <NuxtLink to="#" class="text-gray-700 hover:text-primary-600 font-medium transition-colors">
             Blog
           </NuxtLink>
         </nav>
